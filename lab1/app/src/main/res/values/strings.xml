@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+
+    <string name="welcome_text">Welcome to Tic-Tac-Toe!</string>
+
+    <string name="enter_login">Enter your login</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="login">Login</string>
+
+    <string name="player_name">Player: </string>
+    <string name="reset_game">Reset Game</string>
+    <string name="exit">Exit</string>
+</resources>
